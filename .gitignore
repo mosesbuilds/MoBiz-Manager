@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+income_log_v18.txt
+expense_log_v18.txt
+mobiz_export_v18.csv
